@@ -13,6 +13,6 @@ public class test {
         return "home";
     }
     static void secodfunc(){
-        System.out.println("Aman");
+        System.out.println("anything");
     }
 }
